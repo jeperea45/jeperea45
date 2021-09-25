@@ -1,84 +1,55 @@
-### Hi there, I'm [Juan Esteban!] 👋.
+# Hi, I'm Juan Esteban Perea
+In this repository you can find some projects that I have developed for companies and even some projects that I develop to study some libraries and frameworks.
 
+[![Linkedin Badge](https://img.shields.io/badge/-Juan Esteban%20Perea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeperea45/)](https://www.linkedin.com/in/jeperea45/)
 
-<br/>
-<a href="https://twitter.com/jeperea45">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/jeperea45/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/jeperea45">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/jeperea45/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user//">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
+# Knowledges :mortar_board:
+## Back-End
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=jeperea45.jeperea45)
+[![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=e0234e&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
 
-<br />
+## Front-End
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logo=material-ui&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
 
-<br />
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![Next.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=next.js&logoColor=white&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
 
-### I'm 19 years old Self-taught Web developer from Colombia.
+## CMS
+[![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![Strapi](https://img.shields.io/badge/-Strapi-1e1d80?style=flat-square&logo=strapi&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
 
+## Databases
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
 
-#### - 🥀 Learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>,NextJs <code> <img height="20" width="16" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"> </code> &Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
+## Deploy
+[![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-17158e?style=flat-square&logo=digitalocean&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-ff9900?style=flat-square&logo=amazonaws&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
 
+## Version control
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/jeperea45/)](https://github.com/jeperea45/)
 
+## Learning
+- 🕴 Software Architecture.
+- 🎯 Design patterns.
+- 🧩 Data structures & Algorithms.
 
-
-#### - 🔭 Imagrafic, 
-
-#### - 🛸 Into Hight Energy Physics and Astrophysics
-
-#### - 💬 Connect? Here 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/jeperea45/)
-
-
-<br />
-
-
-**I am Into , 🙏**
-
-**Web Development, System Design, Competetive Programming & Physics and Physics 😼**
-<br />
-
-
-![Juan Esteban Github Stats](https://github-readme-stats.vercel.app/api?username=jeperea45&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-<br />
-
-*************
-
-<br />
-
-### - Languages and Tools...
-
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
-
-</p>
-
-### - Blogs 🌱
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
-</p>
-
-### - Podcast ⚡️
-<p align="center">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
-</p>
-
-
-***********************************
-
-#### Thank You-🙏🏼
-
-
-
-⭐️ From [Juan Esteban](https://github.com/jeperea45)
+And all the above mentioned, always learning new ways of doing things.
