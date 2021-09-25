@@ -1,7 +1,7 @@
 # Hi, I'm Juan Esteban Perea
 In this repository you can find some projects that I have developed for companies and even some projects that I develop to study some libraries and frameworks.
 
-[![Linkedin Badge](https://img.shields.io/badge/-JuanEsteban%20Perea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeperea45/)](https://www.linkedin.com/in/jeperea45/)
+[![Linkedin Badge](https://img.shields.io/badge/-Juan%20Esteban%20Perea-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeperea45/)](https://www.linkedin.com/in/jeperea45/)
 
 # Knowledges :mortar_board:
 ## Back-End
